@@ -1,1 +1,449 @@
-
+<TaskerData sr="" dvi="1" tv="5.7.2">
+	<dmetric>1440.0,2560.0</dmetric>
+	<Scene sr="sceneZ2ModMenu2">
+		<cdate>1552321234722</cdate>
+		<edate>1561231507048</edate>
+		<heightLand>-1</heightLand>
+		<heightPort>1920</heightPort>
+		<nme>Z2ModMenu2</nme>
+		<widthLand>-1</widthLand>
+		<widthPort>1080</widthPort>
+		<RectElement sr="elements0">
+			<flags>4</flags>
+			<geom>0,0,1080,1920,0,0,1080,1920</geom>
+			<Str sr="arg0" ve="3">Background</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">#FFFFFFFF</Str>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3">#FF000000</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</RectElement>
+		<ButtonElement sr="elements1" ve="3">
+			<clickTask>25</clickTask>
+			<flags>4</flags>
+			<geom>10,500,1060,120,10,640,1050,120</geom>
+			<Str sr="arg0" ve="3">CamIntro</Str>
+			<Str sr="arg1" ve="3">Camera Intro</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Img sr="arg7" ve="2"/>
+		</ButtonElement>
+		<TextElement sr="elements10" ve="3">
+			<flags>4</flags>
+			<geom>0,0,400,100,0,0,307,108</geom>
+			<Str sr="arg0" ve="3">BattLabel</Str>
+			<Str sr="arg1" ve="3">Battery</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="3"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+		</TextElement>
+		<ButtonElement sr="elements11" ve="3">
+			<clickTask>19</clickTask>
+			<flags>4</flags>
+			<geom>10,220,1060,120,10,220,1060,120</geom>
+			<longclickTask>40</longclickTask>
+			<Str sr="arg0" ve="3">BattHistory</Str>
+			<Str sr="arg1" ve="3">Battery Usage History</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Img sr="arg7" ve="2"/>
+		</ButtonElement>
+		<TextElement sr="elements12" ve="3">
+			<flags>4</flags>
+			<geom>0,800,400,100,0,800,400,100</geom>
+			<Str sr="arg0" ve="3">MgrLabel</Str>
+			<Str sr="arg1" ve="3">Mod Manager</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="3"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+		</TextElement>
+		<ButtonElement sr="elements13" ve="3">
+			<clickTask>38</clickTask>
+			<flags>4</flags>
+			<geom>10,900,1060,120,10,900,1060,120</geom>
+			<longclickTask>15</longclickTask>
+			<Str sr="arg0" ve="3">MgrLaunch</Str>
+			<Str sr="arg1" ve="3">Launch Mod Manager</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Img sr="arg7" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements14" ve="3">
+			<clickTask>39</clickTask>
+			<flags>4</flags>
+			<geom>10,1020,1060,120,10,1020,1060,120</geom>
+			<longclickTask>22</longclickTask>
+			<Str sr="arg0" ve="3">MgrUpdate</Str>
+			<Str sr="arg1" ve="3">Update Check Results</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Img sr="arg7" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements15" ve="3">
+			<clickTask>43</clickTask>
+			<flags>4</flags>
+			<geom>980,0,100,100,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Update</Str>
+			<Str sr="arg1" ve="3">📥</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Img sr="arg7" ve="2"/>
+		</ButtonElement>
+		<TextElement sr="elements2" ve="3">
+			<flags>4</flags>
+			<geom>0,400,400,100,0,0,300,105</geom>
+			<Str sr="arg0" ve="3">CamLabel</Str>
+			<Str sr="arg1" ve="3">Camera</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="3"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+		</TextElement>
+		<TextElement sr="elements3" ve="3">
+			<flags>4</flags>
+			<geom>0,1200,400,100,0,229,174,248</geom>
+			<Str sr="arg0" ve="3">ProjLabel</Str>
+			<Str sr="arg1" ve="3">Projector</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="3"/>
+			<Int sr="arg7" val="0"/>
+			<Int sr="arg8" val="0"/>
+		</TextElement>
+		<ButtonElement sr="elements4" ve="3">
+			<clickTask>26</clickTask>
+			<flags>4</flags>
+			<geom>10,1300,1060,120,7,477,1060,120</geom>
+			<Str sr="arg0" ve="3">ProjIntro</Str>
+			<Str sr="arg1" ve="3">Projector Intro</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Img sr="arg7" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements5" ve="3">
+			<clickTask>27</clickTask>
+			<flags>4</flags>
+			<geom>10,1420,1060,120,10,1020,1060,120</geom>
+			<Str sr="arg0" ve="3">ProjSettings</Str>
+			<Str sr="arg1" ve="3">Projector Settings</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Img sr="arg7" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements6" ve="3">
+			<clickTask>42</clickTask>
+			<flags>4</flags>
+			<geom>10,1540,1060,120,10,1140,1060,120</geom>
+			<Str sr="arg0" ve="3">ProjPerms</Str>
+			<Str sr="arg1" ve="3">Projector Permissions</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Img sr="arg7" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements7" ve="3">
+			<clickTask>41</clickTask>
+			<flags>4</flags>
+			<geom>10,1660,1060,120,10,1260,1060,120</geom>
+			<Str sr="arg0" ve="3">ProjQS</Str>
+			<Str sr="arg1" ve="3">Projector Adjustment</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Img sr="arg7" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements8" ve="3">
+			<clickTask>30</clickTask>
+			<flags>4</flags>
+			<geom>10,620,1060,120,10,220,1060,120</geom>
+			<Str sr="arg0" ve="3">CamLaunch</Str>
+			<Str sr="arg1" ve="3">Stock Camera</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Img sr="arg7" ve="2"/>
+		</ButtonElement>
+		<ButtonElement sr="elements9" ve="3">
+			<clickTask>37</clickTask>
+			<flags>4</flags>
+			<geom>10,100,1060,120,10,340,1060,120</geom>
+			<Str sr="arg0" ve="3">BattUsage</Str>
+			<Str sr="arg1" ve="3">Battery Usage</Str>
+			<Int sr="arg2" val="16"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF000000</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="0"/>
+			<Img sr="arg7" ve="2"/>
+		</ButtonElement>
+		<PropertiesElement sr="props">
+			<Int sr="arg0" val="1"/>
+			<Int sr="arg1" val="2"/>
+			<Str sr="arg2" ve="3">#FFFFFFFF</Str>
+			<Int sr="arg3" val="0"/>
+			<Str sr="arg4" ve="3">Z2SecretMenu</Str>
+			<Str sr="arg5" ve="3"/>
+			<Img sr="arg6" ve="2"/>
+			<Str sr="arg7" ve="3"/>
+		</PropertiesElement>
+	</Scene>
+	<Task sr="task15">
+		<cdate>1561228504512</cdate>
+		<edate>1561228504512</edate>
+		<id>15</id>
+		<Action sr="act0" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">am start -n com.motorola.modservice/com.motorola.modservice.ui.MainActivity</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task19">
+		<cdate>1561228561984</cdate>
+		<edate>1561228561984</edate>
+		<id>19</id>
+		<pri>102</pri>
+		<Action sr="act0" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.motorola.modservice.ui.ShowBatteryHistoryActivity</appClass>
+				<appPkg>com.motorola.modservice</appPkg>
+				<label>com.motorola.modservice/com.motorola.modservice.ui.ShowBatteryHistoryActivity</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task22">
+		<cdate>1561228595548</cdate>
+		<edate>1561228595548</edate>
+		<id>22</id>
+		<Action sr="act0" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.motorola.modservice.ui.Settings.SoftwareUpdateResultActivity</appClass>
+				<appPkg>com.motorola.modservice</appPkg>
+				<label>com.motorola.modservice/com.motorola.modservice.ui.Settings.SoftwareUpdateResultActivity</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task25">
+		<cdate>1561138090233</cdate>
+		<edate>1561138090233</edate>
+		<id>25</id>
+		<pri>102</pri>
+		<Action sr="act0" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.motorola.cameramod.ui.intro.IntroActivity</appClass>
+				<appPkg>com.motorola.cameramod</appPkg>
+				<label>Moto Mods Camera</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task26">
+		<cdate>1561138528998</cdate>
+		<edate>1561138528998</edate>
+		<id>26</id>
+		<Action sr="act0" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.motorola.projectormod.intro.IntroActivity</appClass>
+				<appPkg>com.motorola.projectormod</appPkg>
+				<label>Projector Intro</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task27">
+		<cdate>1561139146458</cdate>
+		<edate>1561139146458</edate>
+		<id>27</id>
+		<pri>102</pri>
+		<Action sr="act0" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.motorola.projectormod.app.ModuleActivity</appClass>
+				<appPkg>com.motorola.projectormod</appPkg>
+				<label>Projector Intro:Moto Mods Projector</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task30">
+		<cdate>1561140538429</cdate>
+		<edate>1561140538429</edate>
+		<id>30</id>
+		<pri>102</pri>
+		<Action sr="act0" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.motorola.camera.Camcorder</appClass>
+				<appPkg>com.motorola.camera2</appPkg>
+				<label>Camera:Camcorder</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task37">
+		<cdate>1561141078066</cdate>
+		<edate>1561141078066</edate>
+		<id>37</id>
+		<pri>102</pri>
+		<Action sr="act0" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.android.settings.Settings$PowerUsageSummaryActivity</appClass>
+				<appPkg>com.android.settings</appPkg>
+				<label>Battery:Settings$PowerUsageSummaryActivity</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task38">
+		<cdate>1561152296931</cdate>
+		<edate>1561152296931</edate>
+		<id>38</id>
+		<pri>102</pri>
+		<Action sr="act0" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.motorola.modservice.ui.MainActivity</appClass>
+				<appPkg>com.motorola.modservice</appPkg>
+				<label>com.motorola.modservice/com.motorola.modservice.ui.MainActivity</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task39">
+		<cdate>1561152978973</cdate>
+		<edate>1561152978973</edate>
+		<id>39</id>
+		<pri>102</pri>
+		<Action sr="act0" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">am start -n com.motorola.modservice/com.motorola.modservice.ui.Settings.SoftwareUpdateResultActivity</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task40">
+		<cdate>1561228405761</cdate>
+		<edate>1561228405761</edate>
+		<id>40</id>
+		<pri>102</pri>
+		<Action sr="act0" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">am start -n com.motorola.modservice/com.motorola.modservice.ui.ShowBatteryHistoryActivity</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task41">
+		<cdate>1561230765062</cdate>
+		<edate>1561230765062</edate>
+		<id>41</id>
+		<pri>102</pri>
+		<Action sr="act0" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">am start -n com.motorola.projectormod/com.motorola.projectormod.app.ProjectorQSActivity</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task42">
+		<cdate>1561230809131</cdate>
+		<edate>1561230809131</edate>
+		<id>42</id>
+		<pri>102</pri>
+		<Action sr="act0" ve="7">
+			<code>123</code>
+			<Str sr="arg0" ve="3">am start -n com.motorola.projectormod/com.motorola.projectormod.app.PermissionDialogActivity</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task43">
+		<cdate>1561231312170</cdate>
+		<edate>1561231312170</edate>
+		<id>43</id>
+		<Action sr="act0" ve="7">
+			<code>104</code>
+			<Str sr="arg0" ve="3">https://github.com/rcmaehl/Z2-Mod-Manager/releases</Str>
+		</Action>
+	</Task>
+</TaskerData>
