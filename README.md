@@ -3,4 +3,4 @@ Tasker solution to Moto Mod Management
 Root recommended for full app feature set
 
 ## App Preview
-![Application Preview](https://github.com/rcmaehl/Z2-Mod-Manager/blob/master/Preview.png)
+![Application Preview](https://github.com/rcmaehl/Z2-Mod-Manager/blob/master/AppPreview.png)
