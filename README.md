@@ -1,4 +1,4 @@
-# Z2-Mod-Manager
+# Z2-Mod-Menu
 Tasker solution to Moto Mod Management.
 Root recommended for full app feature set.
 
